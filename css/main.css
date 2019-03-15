@@ -1,1 +1,97 @@
-{\rtf1}
+body
+{
+
+	background-color: #f5f6fa;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin: 20px;
+	text-align: center;
+}
+
+.title h1
+{
+	text-align: center;
+ 	line-height: 1.2;
+ 	margin-top: 2.6em;
+ 	margin-bottom: 2.6em;
+ 	font-weight: bold;
+}
+
+.promo
+{
+	height: 384px;
+ 	width: 980px;
+ 	margin-left: 250px;
+ 	background: url(../images/city_background.jpg);
+}
+
+
+
+.promo h2
+{
+	text-align: center;
+ 	line-height: 1.2;
+ 	margin-top: 2.6em;
+ 	margin-bottom: 2.6em;
+ 	font-weight: bold;
+ 	color: white;
+}
+
+.promo p
+{
+	text-align: center;
+	width: 640px;
+	margin-top: 250px;
+	margin-left: 125px;
+	background: #273c75;
+	display: block;
+	padding: 10px 10px;
+	border: 10px solid #273c75;
+	border-radius: 10px;
+	color: #fff;
+}
+
+.profile img
+{
+	margin-top: 10px;
+	border-radius: 50%;
+}
+
+.profile p
+{
+	background: #273c75;
+	display: block;
+	width: 450px;
+	padding: 10px 10px;
+	border: 10px solid #273c75;
+	border-radius: 10px;
+	color: #fff;
+	margin-left: 500px;
+}
+
+.button 
+{
+  background-color:#008CBA; 
+  border: none;
+  color: black ;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button1 {
+  background-color: #008CBA ; 
+  color: white; 
+  border: 2px solid #008CBA ;
+}
+
+.button1:hover {
+  background-color: white ;
+  color: #008CBA;
+}
